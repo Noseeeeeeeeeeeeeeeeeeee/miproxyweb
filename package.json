@@ -1,0 +1,12 @@
+{
+  "name": "mi-proxy-web",
+  "version": "1.0.0",
+  "description": "Proxy web personal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "unblocker": "^2.5.1"
+  }
+}
